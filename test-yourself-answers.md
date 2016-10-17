@@ -1,5 +1,5 @@
-﻿# Test Yourself: Answers
-
+﻿
+# Test Yourself: Answers
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
 ### Instructions
@@ -909,5 +909,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
+
+This is a superficial change
 
 
